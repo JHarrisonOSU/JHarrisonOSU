@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JHarrisonOSU
 - 👀 I’m interested in: improving my programming skills.
-- 🌱 I’m currently learning: the very basics (via python)! 
+- 🌱 I’m currently learning: relational databases, mySQL
 - 💞️ I’m looking to collaborate on: nothing for now.
 - 📫 How to reach me: harrijo9@oregonstate.edu
 
